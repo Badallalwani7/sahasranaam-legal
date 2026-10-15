@@ -4,5 +4,6 @@ Daily chanting of the Shri Vishnu Sahasranamam, with audio, meaning in 9 Indian 
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
+- [Delete your account or data](delete-account)
 
 Support: badallalwani9@gmail.com
